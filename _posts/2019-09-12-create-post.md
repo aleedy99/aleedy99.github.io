@@ -2,7 +2,7 @@
 layout: post
 title: Markdown Post
 subtitle: Altering existing code
-tags: [test, post]
+tags: [test]
 comments: true
 ---
 
