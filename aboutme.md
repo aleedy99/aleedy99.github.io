@@ -4,10 +4,11 @@ title: About me
 subtitle: Why I'm taking CS 103
 ---
 
-I have the following qualities:
+I have no programming experience, but I love making things
+I have made:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- A stained glass tile
+- Many Origami bowes
 
 What else do you need?
 
