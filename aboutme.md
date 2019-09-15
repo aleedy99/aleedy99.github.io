@@ -4,14 +4,17 @@ title: About me
 subtitle: Why I'm taking CS 103
 ---
 
-I have no programming experience, but I love making things
+I have no programming experience, but I love making things.
+
 I have made:
 
-- A stained glass tile
-- Many Origami bowes
+- A Stained Glass Tile
+- Many Origami boxes
+- A Chocolate Cheesecake
+- A Knitted Hat
+- A Spinning Top
 
-What else do you need?
+I am very average at making things, but I love it anyway. 
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+##Why am I taking CSCI 103?##
+I like making things and my brother suggested that I take a Computer Science course
