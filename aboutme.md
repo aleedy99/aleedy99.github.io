@@ -16,5 +16,5 @@ I have made:
 
 I am very average at making things, but I love it anyway. 
 
-##Why am I taking CSCI 103?##
+## Why am I taking CSCI 103?##
 I like making things and my brother suggested that I take a Computer Science course
