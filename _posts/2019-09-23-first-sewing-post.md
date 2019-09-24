@@ -7,5 +7,5 @@ comments: true
 ---
 
 This is my embroidery sampler. 
-
+!(img/SewingSampler.jpg)
 
