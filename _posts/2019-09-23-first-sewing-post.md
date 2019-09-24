@@ -2,6 +2,7 @@
 layout: post
 title: My First Sewing Post
 subtitle: HW Due 9/24
+image: /img/SewingSampler.jpg
 tags: [sewing, homework]
 image: /img/SewingSampler.jpg
 comments: true
