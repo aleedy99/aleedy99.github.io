@@ -7,5 +7,11 @@ comments: true
 ---
 
 This is my embroidery sampler. 
+
+The two stitches that I chose to do were 
+- the feather stitch
+- the chain stitch
+
 !(img/SewingSampler.jpg)
+
 
