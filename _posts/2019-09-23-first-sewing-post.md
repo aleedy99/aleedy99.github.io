@@ -8,9 +8,14 @@ comments: true
 
 This is my embroidery sampler. 
 
-The two stitches that I chose to do were 
+The two stitches that I chose to do were: 
 - the feather stitch
 - the chain stitch
+
+Some tips that I would give myself:
+- Map out the stitch better before doing it. It will look better after
+- Keep the fabric flat
+- It takes time. Be prepared
 
 !(https://github.com/aleedy99/aleedy99.github.io/blob/master/img/SewingSampler.jpg)
 
