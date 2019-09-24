@@ -18,6 +18,6 @@ Some tips that I would give myself:
 - Keep the fabric flat
 - It takes time. Be prepared
 
-!(https://github.com/aleedy99/aleedy99.github.io/blob/master/img/SewingSampler.jpg)
+!(/img/SewingSampler.jpg)
 
 
