@@ -12,6 +12,6 @@ The two stitches that I chose to do were
 - the feather stitch
 - the chain stitch
 
-!(img/SewingSampler.jpg)
+!(https://github.com/aleedy99/aleedy99.github.io/blob/master/img/SewingSampler.jpg)
 
 
