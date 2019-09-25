@@ -2,7 +2,7 @@
 layout: post
 title: Sweater Weather
 subtitle: HW Due 9/26
-image: /img/SewingSampler.jpg
+image: img/SweaterOutput1.png
 tags: [coding, homework]
 comments: true
 ---
