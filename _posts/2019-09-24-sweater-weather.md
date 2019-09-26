@@ -9,7 +9,7 @@ comments: true
 
 This project tells what is appropriate to wear depending on the weather. 
 
-One tip I have for myself is to remeber semicolons.
+One tip I have for myself is to remember semicolons.
 
 ![coding sweater](/img/SweaterOutput1.png)
 
