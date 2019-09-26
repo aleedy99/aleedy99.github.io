@@ -7,7 +7,7 @@ tags: [coding, homework]
 comments: true
 ---
 
-![coding sweater](https://aleedy99.github.io/2019-09-24-sweater-weather/img/SweaterOutput1.png)
+![coding sweater](/aleedy99.github.io/2019-09-24-sweater-weather/img/SweaterOutput1.png)
 
 This project tells what is appropriate to wear depending on the weather. 
 
