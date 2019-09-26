@@ -7,9 +7,10 @@ tags: [coding, homework]
 comments: true
 ---
 
-![coding sweater](/img/SweaterOutput1.png)
-
-
 This project tells what is appropriate to wear depending on the weather. 
 
 One tip I have for myself is to remeber semicolons.
+
+![coding sweater](/img/SweaterOutput1.png)
+
+
