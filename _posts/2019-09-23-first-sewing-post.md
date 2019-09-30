@@ -7,6 +7,8 @@ tags: [sewing, homework]
 comments: true
 ---
 
+![embroidery sampler](/img/SewingSampler.jpg)
+
 This is my embroidery sampler. 
 
 The two stitches that I chose to do were: 
