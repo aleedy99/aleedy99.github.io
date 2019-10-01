@@ -22,7 +22,7 @@ Unfortunately, after testing the circuit with alligator clips I promptly sewed t
 This is my circuitry prototype. 
 ![paper prototype](/img/IMG_20190930_162740275.jpg)
 This is my plushy paper prototype. 
-![paper prototype](img/IMG_20190930_164306480.jpg)
+![paper prototype](/img/IMG_20190930_164306480.jpg)
 
 
 
