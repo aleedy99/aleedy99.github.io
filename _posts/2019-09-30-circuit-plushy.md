@@ -25,5 +25,6 @@ This is my plushy paper prototype.
 ![paper prototype](/img/IMG_20190930_164306480.jpg)
 
 One tip:
+
 Be careful: The conductive thread breaks and knots easier than normal thread
 
