@@ -3,7 +3,7 @@ layout: post
 title: Circuit Plushy
 subtitle: HW Due 10/01
 image: img/IMG_20190930_162802538.jpg
-tags: [sewing, homework]
+tags: [sewing, homework, circuitry]
 comments: true
 ---
 
