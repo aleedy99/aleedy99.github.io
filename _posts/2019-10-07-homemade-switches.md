@@ -2,10 +2,19 @@
 layout: post
 title: Homemade Switches
 subtitle: HW Due 10/08
-image: img/IMG_20190930_162802538.jpg
+image: img/IMG_20191007_213559931.jpg
 tags: [sewing, homework, circuitry]
 comments: true
 ---
 
-This is my completed plushy. It is a stuffed toy that lights up when a button is pressed. 
-![plushy front](/img/IMG_20190930_175432187.jpg)
+This is my completed homemade switch. The light turns on when both switches are pressed. 
+![completed switch](/img/IMG_20191007_213559931.jpg)
+
+This is the back
+![completed switch](/img/IMG_20191007_221958344.jpg)
+
+This is the paper prototype
+![completed switch](/img/IMG_20191007_222222739.jpg)
+
+This is my alligator prototype.
+![alligator prototype](/img/IMG_20191007_164657540.jpg)
