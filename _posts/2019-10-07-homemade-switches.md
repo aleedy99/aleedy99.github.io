@@ -13,6 +13,9 @@ This is my completed homemade switch. The light turns on when both switches are 
 This is the back
 ![completed switch](/img/IMG_20191007_221958344.jpg)
 
+These are the switches
+![completed switch](/img/IMG_20191007_221945654.jpg)
+
 This is the paper prototype
 ![completed switch](/img/IMG_20191007_222222739.jpg)
 
