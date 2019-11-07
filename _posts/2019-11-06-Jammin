@@ -1,0 +1,18 @@
+---
+layout: post
+title: Jammin
+subtitle: HW Due 11/05
+image: img/IMG_20191106_210543175.jpg
+tags: [homework, coding, LilyPad]
+comments: true
+---
+
+This is a LilyPad arduino program that plays Happy Birthday in Lydian when the switch is on.
+
+This is my setup.
+![output](/img/IMG_20191106_210543175.jpg)
+
+
+One tip:
+
+Make sure you know what maens on and off (low or high)
