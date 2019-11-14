@@ -18,12 +18,14 @@ This is my proposal pitch
 - Green embroidery floss
 - Purple embroidery floss
 - Stuffing 
+
 **For the lilypad arduino part (side A)**
 - Lilypad Arduino
 - Onboard rgb led
 - Switch
 - Light sensor
 - Buzzer
+
 **For the battery powered circuitry part (side B)**
 - Battery 
 - Battery holder
@@ -34,6 +36,7 @@ This is my proposal pitch
   - 2 colors (3 each)
   - Red
   - Violet (or blue)
+  
   **For both sides**
 - Conductive thread
 - Fabric paint (any color)
