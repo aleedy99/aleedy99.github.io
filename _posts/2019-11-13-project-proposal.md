@@ -9,7 +9,7 @@ comments: true
 This is my proposal pitch
 ![proposal](/img/U.F.O - Ultrasonic Felt Opus.jpg)
 
-##### Here is a detailed list of materials:
+#### Here is a detailed list of materials:
 
 **For the felt pushy part**
 - 2 square (or round) 10’’ (or larger) pieces of green felt
