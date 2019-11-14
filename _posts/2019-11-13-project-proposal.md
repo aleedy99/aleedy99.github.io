@@ -34,7 +34,7 @@ This is my proposal pitch
   - 2 colors (3 each)
   - Red
   - Violet (or blue)
-**For both sides**
+  **For both sides**
 - Conductive thread
 - Fabric paint (any color)
 
